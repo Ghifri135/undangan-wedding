@@ -1,5 +1,5 @@
 // PASANG URL WEB APP DEPLOYMENT GOOGLE APPS SCRIPT KAMU DI SINI
-const SCRIPT_URL = "GANTI_DENGAN_URL_DEPLOYMENT_GOOGLE_APPS_SCRIPT_KAMU";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbxFWy7KsY7asw3f7y2W63b8nzNuwBK6vHSeb6I4rUEL-w8zX1Z7anvMh5k0aiV2X01J/exec";
 
 // 1. MEMBACA NAMA TAMU DINAMIS DARI URL PARAMETER (?to=NamaTamu)
 window.addEventListener("DOMContentLoaded", function () {
